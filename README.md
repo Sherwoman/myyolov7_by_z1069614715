@@ -2,7 +2,7 @@
 
 ## 1. Declaration
 
-A version based on z1069614715's initial YOLOv7 code. More modules and improved networks are added.
+This project is a personal backup version based on z1069614715's initial YOLOv7 code. More modules and improved networks are added.
 
 ## 2. Installation
 
@@ -21,4 +21,9 @@ Some weights can be useful for your training.
 ## 4. Reference
 
 Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
-Cited cfg [`yolov7-Improved`](https://github.com/lx-cly/YOLOv7_OBB/tree/main/cfg/yolov7-Improved) [`yolov7-transformer-Improved`](https://github.com/lx-cly/YOLOv7_OBB/tree/main/cfg/yolov7-transformer-Improved)
+
+Some yaml from ./cfg [`yolov7-Improved`](https://github.com/lx-cly/YOLOv7_OBB/tree/main/cfg/yolov7-Improved) [`yolov7-transformer-Improved`](https://github.com/lx-cly/YOLOv7_OBB/tree/main/cfg/yolov7-transformer-Improved)
+
+## 5. Contact
+
+This project is saved online for temporary. If there is any infringement, please contact me at any time.
