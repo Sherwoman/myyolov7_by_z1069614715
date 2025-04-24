@@ -1,0 +1,17 @@
+RESULTS:
+SUM                         :30926
+Acanthopagrus_palmaris      =859
+acanthopagrus_and_caranx    =299 for test
+Amniataba_caudivittatus     =50
+Caranx_sexfasciatus_juvenile=3060
+Epinephelus                 =49
+Gerres                      =239
+Lutjanus_russellii_EJP      =20
+F1                          =7702
+F2                          =1794
+F3                          =291
+F4                          =438
+F5                          =127
+F6                          =358
+F7                          =177
+No                          =15463
