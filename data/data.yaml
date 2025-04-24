@@ -1,0 +1,13 @@
+# custom dataset
+train: ./dataset/images/train
+val: ./dataset/images/val
+test: ./dataset/images/test
+
+# number of classes
+nc: 13
+
+# class names
+names: ['Acanthopagrus','Amniataba','Caranx','Epinephelus','Gerres',
+        'Lutjanus','F1','F2','F3','F4',
+        'F5','F6','F7']
+
