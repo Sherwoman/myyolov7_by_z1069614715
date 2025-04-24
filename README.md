@@ -1,4 +1,4 @@
-# YOLOv7 by z1069614715
+# myYOLOv7 by z1069614715
 
 ## 1. Declaration
 
