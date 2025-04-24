@@ -10,7 +10,6 @@ A version based on z1069614715's former YOLOv7 code.
 
 ```bash
 pip install -r requirements.txt
-pip install -e .
 ```
 
 ## 3. weight
